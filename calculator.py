@@ -15,7 +15,7 @@ def multiply( first, second):
 
 def divide( first, second):
     if second == 0:
-        print("I'm sorry, I can't divide by zero")
+        print("I\'m sorry, I can'\t divide by zero")
     else:
         return first/second 
 
